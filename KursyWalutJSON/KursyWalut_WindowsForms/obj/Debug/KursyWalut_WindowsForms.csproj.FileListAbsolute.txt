@@ -9,3 +9,15 @@ C:\Users\mwawrzynczyk\Documents\Visual Studio 2015\Projects\KursyWalutJSON\Kursy
 C:\Users\mwawrzynczyk\Documents\Visual Studio 2015\Projects\KursyWalutJSON\KursyWalut_WindowsForms\bin\Debug\Newtonsoft.Json.xml
 C:\Users\mwawrzynczyk\Documents\Visual Studio 2015\Projects\KursyWalutJSON\KursyWalut_WindowsForms\obj\Debug\KursyWalut_WindowsForms.exe
 C:\Users\mwawrzynczyk\Documents\Visual Studio 2015\Projects\KursyWalutJSON\KursyWalut_WindowsForms\obj\Debug\KursyWalut_WindowsForms.pdb
+C:\Users\Domowy\Documents\kursyWalut\KursyWalutJSON\KursyWalut_WindowsForms\bin\Debug\KursyWalut_WindowsForms.exe.config
+C:\Users\Domowy\Documents\kursyWalut\KursyWalutJSON\KursyWalut_WindowsForms\bin\Debug\KursyWalut_WindowsForms.exe
+C:\Users\Domowy\Documents\kursyWalut\KursyWalutJSON\KursyWalut_WindowsForms\bin\Debug\KursyWalut_WindowsForms.pdb
+C:\Users\Domowy\Documents\kursyWalut\KursyWalutJSON\KursyWalut_WindowsForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Domowy\Documents\kursyWalut\KursyWalutJSON\KursyWalut_WindowsForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Domowy\Documents\kursyWalut\KursyWalutJSON\KursyWalut_WindowsForms\obj\Debug\KursyWalut_WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Domowy\Documents\kursyWalut\KursyWalutJSON\KursyWalut_WindowsForms\obj\Debug\KursyWalut_WindowsForms.Form1.resources
+C:\Users\Domowy\Documents\kursyWalut\KursyWalutJSON\KursyWalut_WindowsForms\obj\Debug\KursyWalut_WindowsForms.Properties.Resources.resources
+C:\Users\Domowy\Documents\kursyWalut\KursyWalutJSON\KursyWalut_WindowsForms\obj\Debug\KursyWalut_WindowsForms.csproj.GenerateResource.Cache
+C:\Users\Domowy\Documents\kursyWalut\KursyWalutJSON\KursyWalut_WindowsForms\obj\Debug\KursyWalut_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Domowy\Documents\kursyWalut\KursyWalutJSON\KursyWalut_WindowsForms\obj\Debug\KursyWalut_WindowsForms.exe
+C:\Users\Domowy\Documents\kursyWalut\KursyWalutJSON\KursyWalut_WindowsForms\obj\Debug\KursyWalut_WindowsForms.pdb

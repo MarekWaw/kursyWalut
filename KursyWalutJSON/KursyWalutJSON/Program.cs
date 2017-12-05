@@ -30,44 +30,13 @@ namespace ConsoleApplication1
 
             try
             {
-                String dokad = "f:\\wynik.xml";
+                String dokad = "d:\\wynik.xml";
                 String skad = "http://api.nbp.pl/api/exchangerates/tables/a?format=json";
 
                 // Download url.
                 using (WebClient client = new WebClient())
                 {
                     KursyWalutZaDzien kw = new KursyWalutZaDzien();
-                    kw.effectiveDate = "2017-01-01";
-                    kw.no = "XXX";
-                    kw.table = "A";
-                    Rate rate1 = new Rate();
-                    rate1.code = "US";
-                    rate1.mid = 1111;
-                    rate1.currency = "USD";
-                    Rate rate2 = new Rate();
-                    rate2.code = "DM";
-                    rate2.mid = 222;
-                    rate2.currency = "GERDEM";
-                    Rate[] rates = new Rate[] { rate1, rate2 };
-                    kw.rates = rates;
-
-                    Rate[] rates2 = new Rate[] { new Rate() { currency = "111", code = "444", mid = 11111 } };
-
-                    KursyWalutZaDzien kw2 = new KursyWalutZaDzien()
-                    {
-                        effectiveDate = "2000-01-01",
-                        table = "B",
-                        no = "999",
-                        rates = new Rate[] {
-                            new Rate(){
-                                currency = "111", code = "444", mid = 11111
-                            },
-                            new Rate(){
-                                currency = "111", code = "444", mid = 11111
-                            }
-                        }
-                    };
-
                     var obiekt = JsonConvert.SerializeObject(kw);
                     var kursywalut = JsonConvert.DeserializeObject<KursyWalutZaDzien>(obiekt);
                     // Dodałem https://msdn.microsoft.com/pl-pl/library/system.net.webclient.encoding(v=vs.110).aspx
@@ -88,15 +57,6 @@ namespace ConsoleApplication1
 
                     String dane = "{ 'dane': " + value.Substring(1, value.Length - 2) + "}";
                     JObject o = JObject.Parse(dane);
-                    foreach (var element in o["dane"]["rates"])
-                    {
-                        // Console.WriteLine(element["currency"] + ": " + element["mid"] + " " + element["code"]);
-                    }
-
-                    //String obiekt = value.Substring(1, value.Length - 2);
-                    // var kursywalut = JsonConvert.DeserializeObject<KursyWalutZaDzien>(obiekt);
-                    // KursyWalutZaDzien kursyWalut = new KursyWalutZaDzien();
-                    //JsonConvert.PopulateObject(obiekt, kursyWalut);
 
                     var listakursow = from c in o["dane"]["rates"] select (String)c["currency"] + "/" + (String)c["mid"];
                     foreach (var item in listakursow)
@@ -133,7 +93,7 @@ namespace ConsoleApplication1
             var listaKursow = kursywalut.rates;
             foreach (var kurs in listaKursow)
             {
-                Console.WriteLine("-> " +kurs.currency + " - " + kurs.mid);
+                Console.WriteLine("===> " +kurs.currency + " - " + kurs.mid);
             }
 
         }
