@@ -1,0 +1,8 @@
+c:\users\mwawrzynczyk\documents\visual studio 2015\Projects\KursyWalutJSON\KursyWalutJSON\bin\Debug\KursyWalutJSON.exe.config
+c:\users\mwawrzynczyk\documents\visual studio 2015\Projects\KursyWalutJSON\KursyWalutJSON\bin\Debug\KursyWalutJSON.exe
+c:\users\mwawrzynczyk\documents\visual studio 2015\Projects\KursyWalutJSON\KursyWalutJSON\bin\Debug\KursyWalutJSON.pdb
+c:\users\mwawrzynczyk\documents\visual studio 2015\Projects\KursyWalutJSON\KursyWalutJSON\bin\Debug\Newtonsoft.Json.dll
+c:\users\mwawrzynczyk\documents\visual studio 2015\Projects\KursyWalutJSON\KursyWalutJSON\bin\Debug\Newtonsoft.Json.xml
+c:\users\mwawrzynczyk\documents\visual studio 2015\Projects\KursyWalutJSON\KursyWalutJSON\obj\Debug\KursyWalutJSON.csprojResolveAssemblyReference.cache
+c:\users\mwawrzynczyk\documents\visual studio 2015\Projects\KursyWalutJSON\KursyWalutJSON\obj\Debug\KursyWalutJSON.exe
+c:\users\mwawrzynczyk\documents\visual studio 2015\Projects\KursyWalutJSON\KursyWalutJSON\obj\Debug\KursyWalutJSON.pdb

@@ -1,0 +1,73 @@
+Uzyskano obiekt z pobranych danych
+A / 2017-05-02
+bat (Tajlandia) - 0,1122
+dolar ameryka‘"ski - 3,8675
+dolar australijski - 2,9138
+dolar Hongkongu - 0,4972
+dolar kanadyjski - 2,8310
+dolar nowozelandzki - 2,6746
+dolar singapurski - 2,7739
+euro - 4,2226
+forint (WŽtgry) - 0,013528
+frank szwajcarski - 3,8884
+funt szterling - 4,9851
+hrywna (Ukraina) - 0,1457
+jen (Japonia) - 0,034477
+korona czeska - 0,1569
+korona du‘"ska - 0,5678
+korona islandzka - 0,03648
+korona norweska - 0,4502
+korona szwedzka - 0,4379
+kuna (Chorwacja) - 0,5657
+lej rumu‘"ski - 0,9287
+lew (Bu‘'garia) - 2,1590
+lira turecka - 1,0948
+nowy izraelski szekel - 1,0731
+peso chilijskie - 0,005812
+peso filipi‘"skie - 0,0773
+peso meksyka‘"skie - 0,2067
+rand (Republika Po‘'udniowej Afryki) - 0,2907
+real (Brazylia) - 1,2184
+ringgit (Malezja) - 0,8940
+rubel rosyjski - 0,0679
+rupia indonezyjska - 0,00029061
+rupia indyjska - 0,060263
+won po‘'udniowokorea‘"ski - 0,003424
+yuan renminbi (Chiny) - 0,5611
+SDR (MFW) - 5,2967
+bat (Tajlandia)/0.1122
+dolar ameryka‘"ski/3.8675
+dolar australijski/2.9138
+dolar Hongkongu/0.4972
+dolar kanadyjski/2.831
+dolar nowozelandzki/2.6746
+dolar singapurski/2.7739
+euro/4.2226
+forint (WŽtgry)/0.013528
+frank szwajcarski/3.8884
+funt szterling/4.9851
+hrywna (Ukraina)/0.1457
+jen (Japonia)/0.034477
+korona czeska/0.1569
+korona du‘"ska/0.5678
+korona islandzka/0.03648
+korona norweska/0.4502
+korona szwedzka/0.4379
+kuna (Chorwacja)/0.5657
+lej rumu‘"ski/0.9287
+lew (Bu‘'garia)/2.159
+lira turecka/1.0948
+nowy izraelski szekel/1.0731
+peso chilijskie/0.005812
+peso filipi‘"skie/0.0773
+peso meksyka‘"skie/0.2067
+rand (Republika Po‘'udniowej Afryki)/0.2907
+real (Brazylia)/1.2184
+ringgit (Malezja)/0.894
+rubel rosyjski/0.0679
+rupia indonezyjska/0.00029061
+rupia indyjska/0.060263
+won po‘'udniowokorea‘"ski/0.003424
+yuan renminbi (Chiny)/0.5611
+SDR (MFW)/5.2967
+[Done]
