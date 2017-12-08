@@ -30,7 +30,7 @@ namespace ConsoleApplication1
 
             try
             {
-                String dokad = "d:\\wynik.xml";
+                String dokad = "d:\\wynik.xml"; 
                 String skad = "http://api.nbp.pl/api/exchangerates/tables/a?format=json";
 
                 // Download url.
@@ -41,7 +41,7 @@ namespace ConsoleApplication1
                     var kursywalut = JsonConvert.DeserializeObject<KursyWalutZaDzien>(obiekt);
                     // Dodałem https://msdn.microsoft.com/pl-pl/library/system.net.webclient.encoding(v=vs.110).aspx
                     client.Encoding = System.Text.Encoding.UTF8;
-
+                    // Synchroniczne pobranie
                     string value =  client.DownloadString(skad);
 
                     obiekt = value.Substring(1, value.Length - 2);
