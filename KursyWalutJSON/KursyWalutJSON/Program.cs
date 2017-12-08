@@ -30,7 +30,7 @@ namespace ConsoleApplication1
 
             try
             {
-                String dokad = "d:\\wynik.xml";
+                String dokad = "d:\\wynik.xml"; 
                 String skad = "http://api.nbp.pl/api/exchangerates/tables/a?format=json";
 
                 // Download url.
